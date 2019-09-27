@@ -5,7 +5,7 @@ BikeGuard is a system to improve bicycle-ride safety. Composed of a device and a
 [BikeView](https://github.com/yosorg/bike-view) is the Android app in charge of the control of the lights and the rear view video display. It also uses the device light and motion sensors to automate light and brake lights.
 
 ## BikeCam
-[BikeCam](https://github.com/yosorg/bike-cam) is the device responsible for capturing video and manage the RGB lights. It's based on the Raspberry Pi Zero W and comunicates via WiFi with the BikeView app.
+[BikeCam](https://github.com/yosorg/bike-cam) is the device responsible for capturing video and manage the RGB lights. It's based on the **Raspberry Pi Zero W** and comunicates via WiFi with the BikeView app.
 
 ## BikeLed
 Non-camera versions of BikeCam based on **ESP32** or **Arduino** will be developed.
